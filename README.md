@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Firebase, AR-VR, AI**
 
-- 👯 I’m looking to collaborate on **GitHub openSource**
-
 - 🤝 I’m looking for help with **freelance projects**
 
 - 💬 Ask me about **Mobile Application Technologies**
