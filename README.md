@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **freelance projects**
 
-- 💬 Ask me about **Mobile Application Technologie  mnms**
+- 💬 Ask me about **Mobile Application Technologies**
 
 - ⚡ Fun fact **I spend most of the time in reading Literature, history, philosophy, Marxism and Everyday science!**
 
