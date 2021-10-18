@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Flutter Frontend**
 
-- 🌱 I’m currently learning **Firebase, AR-VR, AI, ML 2ww**
+- 🌱 I’m currently learning **Firebase, AR-VR, AI, ML 2w**
 
 - 🤝 I’m looking for help with **freelance projects**
 
