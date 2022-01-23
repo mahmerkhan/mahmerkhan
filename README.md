@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Flutter**
 
-- 🌱 I’m currently learning **Firebase,HiveDb AR-VR, AI, ML **
+- 🌱 Databases **Firebase,HiveDb,SQLite **
 
 - 🤝 I’m looking for help with **freelance projects**
 
