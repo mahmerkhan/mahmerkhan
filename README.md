@@ -1,4 +1,4 @@
-<h1 align="center">Hello Proletariats 👋, I am Muhammad Ahmer khan</h1>
+<h1 align="center">Hello👋, I am Muhammad Ahmer khan</h1>
 <h3 align="center">Flutter developer!</h3>  
 
 
