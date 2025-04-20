@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ss.png" alt="ss" />
+  <img src="ss.png" alt="ss" style="width: 100%; max-height: 200px; object-fit: cover;" />
 </p>
 <h1 align="center">Hi. I am Muhammad Ahmer khan</h1>
 <h3 align="center">Flutter developer!</h3>  
